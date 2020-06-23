@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">beomapp</string>
+    <string name="btn1">글자 나타내기</string>
+    <string name="btn2">홈페이지 열기</string>
+    <string name="rad1">파이</string>
+    <string name="rad2">오레오</string>
+</resources>
